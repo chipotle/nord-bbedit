@@ -7,15 +7,15 @@
 	<key>DifferenceHighlightColor</key>
 	<string>#5e81ac</string>
 	<key>InsertionPointLineHighlightColor</key>
-	<string>#3b4252</string>
+	<string>#363c48</string>
 	<key>InvisibleOthersColor</key>
 	<string>#4c566a</string>
 	<key>InvisibleSpacesColor</key>
 	<string>#4c566a</string>
 	<key>PrimaryHighlightColor</key>
-	<string>#434c5e</string>
+	<string>#4c566a</string>
 	<key>SecondaryHighlightColor</key>
-	<string>#434c5e</string>
+	<string>#545e73</string>
 	<key>SpellingColor</key>
 	<string>#bf616a</string>
 	<key>SublineDifferenceHighlightColor</key>
